@@ -1,0 +1,44 @@
+157.230.65.154:3481|United States|New Jersey|North Bergen
+5.9.51.182:1080|United States|Texas|Houston
+20.21.56.183:20005|India|Maharashtra|Mumbai
+43.231.0.40:7890|United States|California|Covina
+198.98.51.120:31450|Germany|Land Berlin|Berlin
+111.193.226.247:1080|United States|California|San Jose
+117.80.15.198:23456|Hong Kong|Central and Western District|Hong Kong
+180.109.48.138:23456|Hong Kong|Central and Western District|Central
+202.43.237.50:8009|Hong Kong|Tsuen Wan District|Kwai Chung
+180.110.167.228:2080|Hong Kong|Wan Chai|Wanchai
+112.194.90.54:44406|China|Sichuan|Chengdu
+185.86.5.162:8975|Turkey|Istanbul|Istanbul
+47.243.95.228:10080|Hong Kong|Central and Western District|Central
+116.62.200.109:20005|China|Fujian|Fuzhou
+113.89.185.101:1080|China|Guangdong|Shenzhen
+111.196.132.79:23456|Japan|Tokyo|Koto
+102.36.127.249:1080|South Africa|Mpumalanga|Nelspruit
+121.205.190.78:4781|South Korea|Seoul|Seoul
+47.98.165.241:7891|Hong Kong|Central and Western District|Central
+122.224.90.40:7302|China|Zhejiang|Hangzhou
+116.237.79.13:7890|Hong Kong|Central and Western District|Hong Kong
+116.209.68.36:7891|United States|Virginia|Ashburn
+112.194.90.31:15802|China|Sichuan|Chengdu
+94.130.182.121:5566|United States|Washington|Seattle
+173.82.153.196:16781|United States|New York|New York
+111.196.163.70:23456|United States|California|Fremont
+171.241.68.115:5205|Vietnam|Hanoi|Hanoi
+101.43.31.90:7891|France|Île-de-France|Paris
+116.233.74.112:7890|India|Karnataka|Bengaluru
+159.69.153.169:5566|United States|Washington|Seattle
+89.58.45.94:41597|Brazil|Sao Paulo|São Paulo
+201.156.106.105:8111|Mexico|Nuevo León|Monterrey
+144.76.99.207:16003|United Kingdom|England|London
+114.241.12.17:2080|United States|Washington|Seattle
+89.58.45.94:33711|Brazil|Sao Paulo|São Paulo
+113.89.247.237:23456|Taiwan|Taipei|Tuniugou
+91.121.48.221:38711|France|Hauts-de-France|Gravelines
+114.253.243.155:23456|Hong Kong|Wan Chai|Wanchai
+209.141.35.182:32608|Denmark|Capital Region|Graested
+176.74.192.175:3711|Sweden|Stockholm County|Stockholm
+178.33.192.51:25201|Lithuania|Vilnius|Vilnius
+45.77.124.153:8080|Taiwan|Keelung|Keelung
+116.20.64.206:23456|United States|California|Los Angeles
+192.163.203.139:3481|United States|Utah|Provo
